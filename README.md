@@ -1,10 +1,10 @@
 # Revision topics
 
- - `gofmt -w main.go` = จัดformat
-`goimports -w main.go` = importสิ่งที่ต้องใช้
+ - `gofmt -w main.go` = จัดformat <br />
+`goimports -w main.go` = importสิ่งที่ต้องใช้ <br />
 
-    `go build main.go`
-    `./review_golang.ext`
+    `go build main.go` <br />
+    `./review_golang.ext` <br />
 
  - **If-else**
  - **Loop**
